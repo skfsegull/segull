@@ -1,81 +1,81 @@
-# Lög Skátafélagsins Seguls
+ï»¿# LÃ¶g SkÃ¡tafÃ©lagsins Seguls
 
-### 1. Félagiğ
-1.1. Félagiğ heitir Skátafélagiğ Segull og merki şess er segull meğ skátaliljunni og smáranum í forgrunni. Sjá í viğauka 1.
-1.2 Heimili şess og starfssvæği er Skóga- og Seljahverfi í Reykjavík. Varnarşing er í Reykjavík
-1.3. Félagiğ er ağili ağ Bandalagi íslenskra skáta (BÍS) og Skátasambandi Reykjavíkur (SSR) og starfar eftir lögum şeirra.
+### 1. FÃ©lagiÃ°
+1.1. FÃ©lagiÃ° heitir SkÃ¡tafÃ©lagiÃ° Segull og merki Ã¾ess er segull meÃ° skÃ¡taliljunni og smÃ¡ranum Ã­ forgrunni. SjÃ¡ Ã­ viÃ°auka 1.
+1.2 Heimili Ã¾ess og starfssvÃ¦Ã°i er SkÃ³ga- og Seljahverfi Ã­ ReykjavÃ­k. VarnarÃ¾ing er Ã­ ReykjavÃ­k
+1.3. FÃ©lagiÃ° er aÃ°ili aÃ° Bandalagi Ã­slenskra skÃ¡ta (BÃS) og SkÃ¡tasambandi ReykjavÃ­kur (SSR) og starfar eftir lÃ¶gum Ã¾eirra.
 
-### 2. Markmiğ
-2.1. Markmiğ félagsins er ağ şroska börn og ungt fólk til ağ verğa sjálfstæğir, virkir og ábyrgir einstaklingar í samfélaginu.
-2.2. Markmiği sínu hyggst félagiğ m.a. ná meğ :
-- şví ağ starfa eftir uppeldiskerfi Baden-Powells
-- hópvinnu til ağ şroska samstarfshæfileika, tillitssemi, ábyrgğ og stjórnunarhæfileika.
-- útilífi til ağ efla líkamsşrek og virkja áhuga á náttúrunni og löngun til şess ağ vernda hana.
-- viğfangsefnum af ımsum tagi til ağ kenna og şjálfa skátana í ımsum störfum nytsömum sjálfum sér og öğrum.
-- şáttöku í alşjóğastarfi skátahreyfingarinnar til ağ gefa skátunum tækifæri til ağ kynnast ungu fólki og öğrum löndum, háttum şess og menningu.
+### 2. MarkmiÃ°
+2.1. MarkmiÃ° fÃ©lagsins er aÃ° Ã¾roska bÃ¶rn og ungt fÃ³lk til aÃ° verÃ°a sjÃ¡lfstÃ¦Ã°ir, virkir og Ã¡byrgir einstaklingar Ã­ samfÃ©laginu.
+2.2. MarkmiÃ°i sÃ­nu hyggst fÃ©lagiÃ° m.a. nÃ¡ meÃ° :
+- Ã¾vÃ­ aÃ° starfa eftir uppeldiskerfi Baden-Powells
+- hÃ³pvinnu til aÃ° Ã¾roska samstarfshÃ¦fileika, tillitssemi, Ã¡byrgÃ° og stjÃ³rnunarhÃ¦fileika.
+- ÃºtilÃ­fi til aÃ° efla lÃ­kamsÃ¾rek og virkja Ã¡huga Ã¡ nÃ¡ttÃºrunni og lÃ¶ngun til Ã¾ess aÃ° vernda hana.
+- viÃ°fangsefnum af Ã½msum tagi til aÃ° kenna og Ã¾jÃ¡lfa skÃ¡tana Ã­ Ã½msum stÃ¶rfum nytsÃ¶mum sjÃ¡lfum sÃ©r og Ã¶Ã°rum.
+- Ã¾Ã¡ttÃ¶ku Ã­ alÃ¾jÃ³Ã°astarfi skÃ¡tahreyfingarinnar til aÃ° gefa skÃ¡tunum tÃ¦kifÃ¦ri til aÃ° kynnast ungu fÃ³lki og Ã¶Ã°rum lÃ¶ndum, hÃ¡ttum Ã¾ess og menningu.
 
-### 3. Félagar
-3.1. Hver og einn telst félagi şegar sveitarforingi eğa félagsstjórn hefur samşykkt inntökubeiğni hans.
-3.2. Til ağ gerast félagi şarf viğkomandi ağ fá skriflegt leyfi foreldra eğa forráğamann, ef viğkomandi er yngri en 18 ára
-3.3. Félagsmağur telst ekki fullgildur fyrr en hann/hún hefur lokiğ greiğslu félagsgjalda.
-3.4. Stjórn félagsins hefur heimild til ağ fella niğur félagsgjald einstakra félagsmanna.
+### 3. FÃ©lagar
+3.1. Hver og einn telst fÃ©lagi Ã¾egar sveitarforingi eÃ°a fÃ©lagsstjÃ³rn hefur samÃ¾ykkt inntÃ¶kubeiÃ°ni hans.
+3.2. Til aÃ° gerast fÃ©lagi Ã¾arf viÃ°komandi aÃ° fÃ¡ skriflegt leyfi foreldra eÃ°a forrÃ¡Ã°amann, ef viÃ°komandi er yngri en 18 Ã¡ra
+3.3. FÃ©lagsmaÃ°ur telst ekki fullgildur fyrr en hann/hÃºn hefur lokiÃ° greiÃ°slu fÃ©lagsgjalda.
+3.4. StjÃ³rn fÃ©lagsins hefur heimild til aÃ° fella niÃ°ur fÃ©lagsgjald einstakra fÃ©lagsmanna.
 
-### 4. Ağalfundur
-4.1. Ağalfundur fer meğ æğstu stjórn í málefnum félagsins, en şess á milli sérstök kjörin stjórn eins og nánar er kveğiğ á um í lögum şessum.
-4.2. Ağalfundur skal haldinn á tímabilinu febrúar til mars ár hvert og skal til hans boğağ meğ auglısingu í skátaheimili félagsins og á heimasíğu félagsins sé hún fyrir hendi meğ amk. 14 daga fyrirvara.
-4.3. Fundurinn telst löglegur ef hann er löglega boğağur og á hann mæta minnst 8 atkvæğisbærir félagar. Ef fundurinn er ekki lögmætur skal boğa til nıs ağalfundar innan 4 vikna og telst hann lögmætur ef rétt er til hans boğağ.
-4.4. Rétt til setu á ağalfundi:
-- Meğ atkvæğisrétt: Allir starfandi skátar í félaginu 15 ára og eldri , ef árgjöld şeirra eru í skilum, og fulltrúi foreldraráğs.
-- Án atkvæğisréttar: Allir starfandi foringjar í félaginu yngri en 15 ára, forráğamenn skáta undir 16 ára aldri, fulltrúi stjórnar BÍS og fulltrúi stjórnar SSR og gestir sem stjórn félagsins hefur boğiğ til fundarins.
-- Allir ofangreindir hafa málfrelsi og tillögurétt á ağalfundinum
+### 4. AÃ°alfundur
+4.1. AÃ°alfundur fer meÃ° Ã¦Ã°stu stjÃ³rn Ã­ mÃ¡lefnum fÃ©lagsins, en Ã¾ess Ã¡ milli sÃ©rstÃ¶k kjÃ¶rin stjÃ³rn eins og nÃ¡nar er kveÃ°iÃ° Ã¡ um Ã­ lÃ¶gum Ã¾essum.
+4.2. AÃ°alfundur skal haldinn Ã¡ tÃ­mabilinu febrÃºar til mars Ã¡r hvert og skal til hans boÃ°aÃ° meÃ° auglÃ½singu Ã­ skÃ¡taheimili fÃ©lagsins og Ã¡ heimasÃ­Ã°u fÃ©lagsins sÃ© hÃºn fyrir hendi meÃ° amk. 14 daga fyrirvara.
+4.3. Fundurinn telst lÃ¶glegur ef hann er lÃ¶glega boÃ°aÃ°ur og Ã¡ hann mÃ¦ta minnst 8 atkvÃ¦Ã°isbÃ¦rir fÃ©lagar. Ef fundurinn er ekki lÃ¶gmÃ¦tur skal boÃ°a til nÃ½s aÃ°alfundar innan 4 vikna og telst hann lÃ¶gmÃ¦tur ef rÃ©tt er til hans boÃ°aÃ°.
+4.4. RÃ©tt til setu Ã¡ aÃ°alfundi:
+- MeÃ° atkvÃ¦Ã°isrÃ©tt: Allir starfandi skÃ¡tar Ã­ fÃ©laginu 15 Ã¡ra og eldri , ef Ã¡rgjÃ¶ld Ã¾eirra eru Ã­ skilum, og fulltrÃºi foreldrarÃ¡Ã°s.
+- Ãn atkvÃ¦Ã°isrÃ©ttar: Allir starfandi foringjar Ã­ fÃ©laginu yngri en 15 Ã¡ra, forrÃ¡Ã°amenn skÃ¡ta undir 16 Ã¡ra aldri, fulltrÃºi stjÃ³rnar BÃS og fulltrÃºi stjÃ³rnar SSR og gestir sem stjÃ³rn fÃ©lagsins hefur boÃ°iÃ° til fundarins.
+- Allir ofangreindir hafa mÃ¡lfrelsi og tillÃ¶gurÃ©tt Ã¡ aÃ°alfundinum
 
-4.5. Verkefni ağalfundar:
-1. Kosning fundarstjóra og fundarritara
-2. Lögğ fram skırsla stjórnar - umræğur
-3. Lagğir fram endurskoğağir reikningar – umræğur - afgreiğsla
-4. Lögğ fram fjárhagsáætlun til eins árs – umræğur – afgreiğsla
-5. Lögğ fram starfsáætlun til eins árs – umræğur - afgreiğsla
-6. Lagğar fram tillögur til lagabreytinga – umræğur - afgreiğsla
-7. Kosningar skv. lögum félagsins
-a. Kosning stjórnar
-b. Kosning eins skoğunarmanns reikninga til eins árs
-c. Kosning şriggja manna í uppstillingrnefnd til eins árs.
-8. Önnur mál
+4.5. Verkefni aÃ°alfundar:
+1. Kosning fundarstjÃ³ra og fundarritara
+2. LÃ¶gÃ° fram skÃ½rsla stjÃ³rnar - umrÃ¦Ã°ur
+3. LagÃ°ir fram endurskoÃ°aÃ°ir reikningar â€“ umrÃ¦Ã°ur - afgreiÃ°sla
+4. LÃ¶gÃ° fram fjÃ¡rhagsÃ¡Ã¦tlun til eins Ã¡rs â€“ umrÃ¦Ã°ur â€“ afgreiÃ°sla
+5. LÃ¶gÃ° fram starfsÃ¡Ã¦tlun til eins Ã¡rs â€“ umrÃ¦Ã°ur - afgreiÃ°sla
+6. LagÃ°ar fram tillÃ¶gur til lagabreytinga â€“ umrÃ¦Ã°ur - afgreiÃ°sla
+7. Kosningar skv. lÃ¶gum fÃ©lagsins
+a. Kosning stjÃ³rnar
+b. Kosning eins skoÃ°unarmanns reikninga til eins Ã¡rs
+c. Kosning Ã¾riggja manna Ã­ uppstillingrnefnd til eins Ã¡rs.
+8. Ã–nnur mÃ¡l
 
-### 5. Stjórn félagsins
-5.1. Stjórn félagsins skal skipuğ sjö einstaklingum. Félagsforingja og 6 meğstjórnendum.
-5.2. Stjórnarmenn skulu kosnir til tveggja ára í senn.
-5.3. Stjórnin kıs úr hópi meğstjórnanda ağstoğarfélagsforingja og gjaldkera.
-5.4. Láti stjórnarmağur af störfum á tímabilinu skal foringjaráğ kjósa nıjan í hans stağ fram ağ næsta ağalfundi.
-5.5. Stjórn skal funda reglulega, ağ jafnaği mánağarlega. Stjórnarfundur er löglegur ef meirihluti stjórnarmanna sækir fund.
-5.6. Stjórn félagsins skipar sveitaforingja og ağstoğarsveitaforingja félagsins
-5.7. Afl atkvæğa ræğur úrslitum á stjórnarfundum. Séu atkvæği jöfn ræğur atkvæği félagsforingja.
-5.8. Störf og skyldur einstakra stjórnarmanna eru sem hér segir:
-- Félagsforingi skal ekki vera yngri en 25 ára. Hann er formağur stjórnar félagsins og fulltrúi félagsins út á viğ. Hann boğar og stjórnar fundum félagsstjónar og foringjaráğs.
-- Ağstoğarfélagsforingi er stağgengill félagsforingja og annast rekstur og skipulagningu félagsstarfsins og hefur eftirlit meğ skátastarfinu í félaginu.
-- Gjaldkeri félagsins skal vera fjárráğa. Hann varğveitir félagssjóğ, sér um öll fjármál félagsins og hefur eftirlit meğ sjóğum félagsins.
-- Ağ lágmarki einn stjórnarmanna skal vera á aldrinum 18-25 ára.
-- Leitast skal viğ ağ kynjahlutföll séu sem jöfnust, ağ lágmarki tveir af hvoru kyni.
-- Stjórn skal svo skipta meğ sér skyldum eftir şví sem best verğur komist hverju sinni og skal verkskipting stjórnar vera ağgengileg skátum í félaginu hverju sinni.
+### 5. StjÃ³rn fÃ©lagsins
+5.1. StjÃ³rn fÃ©lagsins skal skipuÃ° sjÃ¶ einstaklingum. FÃ©lagsforingja og 6 meÃ°stjÃ³rnendum.
+5.2. StjÃ³rnarmenn skulu kosnir til tveggja Ã¡ra Ã­ senn.
+5.3. StjÃ³rnin kÃ½s Ãºr hÃ³pi meÃ°stjÃ³rnanda aÃ°stoÃ°arfÃ©lagsforingja og gjaldkera.
+5.4. LÃ¡ti stjÃ³rnarmaÃ°ur af stÃ¶rfum Ã¡ tÃ­mabilinu skal foringjarÃ¡Ã° kjÃ³sa nÃ½jan Ã­ hans staÃ° fram aÃ° nÃ¦sta aÃ°alfundi.
+5.5. StjÃ³rn skal funda reglulega, aÃ° jafnaÃ°i mÃ¡naÃ°arlega. StjÃ³rnarfundur er lÃ¶glegur ef meirihluti stjÃ³rnarmanna sÃ¦kir fund.
+5.6. StjÃ³rn fÃ©lagsins skipar sveitaforingja og aÃ°stoÃ°arsveitaforingja fÃ©lagsins
+5.7. Afl atkvÃ¦Ã°a rÃ¦Ã°ur Ãºrslitum Ã¡ stjÃ³rnarfundum. SÃ©u atkvÃ¦Ã°i jÃ¶fn rÃ¦Ã°ur atkvÃ¦Ã°i fÃ©lagsforingja.
+5.8. StÃ¶rf og skyldur einstakra stjÃ³rnarmanna eru sem hÃ©r segir:
+- FÃ©lagsforingi skal ekki vera yngri en 25 Ã¡ra. Hann er formaÃ°ur stjÃ³rnar fÃ©lagsins og fulltrÃºi fÃ©lagsins Ãºt Ã¡ viÃ°. Hann boÃ°ar og stjÃ³rnar fundum fÃ©lagsstjÃ³nar og foringjarÃ¡Ã°s.
+- AÃ°stoÃ°arfÃ©lagsforingi er staÃ°gengill fÃ©lagsforingja og annast rekstur og skipulagningu fÃ©lagsstarfsins og hefur eftirlit meÃ° skÃ¡tastarfinu Ã­ fÃ©laginu.
+- Gjaldkeri fÃ©lagsins skal vera fjÃ¡rrÃ¡Ã°a. Hann varÃ°veitir fÃ©lagssjÃ³Ã°, sÃ©r um Ã¶ll fjÃ¡rmÃ¡l fÃ©lagsins og hefur eftirlit meÃ° sjÃ³Ã°um fÃ©lagsins.
+- AÃ° lÃ¡gmarki einn stjÃ³rnarmanna skal vera Ã¡ aldrinum 18-25 Ã¡ra.
+- Leitast skal viÃ° aÃ° kynjahlutfÃ¶ll sÃ©u sem jÃ¶fnust, aÃ° lÃ¡gmarki tveir af hvoru kyni.
+- StjÃ³rn skal svo skipta meÃ° sÃ©r skyldum eftir Ã¾vÃ­ sem best verÃ°ur komist hverju sinni og skal verkskipting stjÃ³rnar vera aÃ°gengileg skÃ¡tum Ã­ fÃ©laginu hverju sinni.
 
-### 6. Foringjaráğ
-6.1. Í félaginu starfar foringjaráğ sem í eiga sæti félagsstjórn, sveitaforingjar, ağstoğarsveitaforingjar og fulltrúi foreldraráğs. Foringjaráğ er stjórn félagsins til ráğgjafar um framvindu skátastarfsins í félaginu.
-6.2. Stjórn félagsins getur veitt öğrum ağilum en getiğ er í 6.1 sæti í foringjaráği.
-6.3. Félagsforingi stjórnar fundum foringjaráğs en ağstoğarfélagsforingi í forföllum hans.
-6.4. Foringjaráğ skal funda reglulega, ağ jafnaği einu sinni í mánuği nema sumarmánuğina.
+### 6. ForingjarÃ¡Ã°
+6.1. Ã fÃ©laginu starfar foringjarÃ¡Ã° sem Ã­ eiga sÃ¦ti fÃ©lagsstjÃ³rn, sveitaforingjar, aÃ°stoÃ°arsveitaforingjar og fulltrÃºi foreldrarÃ¡Ã°s. ForingjarÃ¡Ã° er stjÃ³rn fÃ©lagsins til rÃ¡Ã°gjafar um framvindu skÃ¡tastarfsins Ã­ fÃ©laginu.
+6.2. StjÃ³rn fÃ©lagsins getur veitt Ã¶Ã°rum aÃ°ilum en getiÃ° er Ã­ 6.1 sÃ¦ti Ã­ foringjarÃ¡Ã°i.
+6.3. FÃ©lagsforingi stjÃ³rnar fundum foringjarÃ¡Ã°s en aÃ°stoÃ°arfÃ©lagsforingi Ã­ forfÃ¶llum hans.
+6.4. ForingjarÃ¡Ã° skal funda reglulega, aÃ° jafnaÃ°i einu sinni Ã­ mÃ¡nuÃ°i nema sumarmÃ¡nuÃ°ina.
 
-### 7. Foreldraráğ
-7.1. Í félaginu starfar foreldraráğ sem í eiga sæti fulltrúar foreldra skátanna í félaginu. Verkefni foreldraráğsins er ağ styğja viğ bakiğ á skátastarfinu í félaginu og auka kynni milli foreldra.
-7.2. Fulltrúar í foreldraráği eru valdir á foreldrafundi í september ár hvert.
+### 7. ForeldrarÃ¡Ã°
+7.1. Ã fÃ©laginu starfar foreldrarÃ¡Ã° sem Ã­ eiga sÃ¦ti fulltrÃºar foreldra skÃ¡tanna Ã­ fÃ©laginu. Verkefni foreldrarÃ¡Ã°sins er aÃ° styÃ°ja viÃ° bakiÃ° Ã¡ skÃ¡tastarfinu Ã­ fÃ©laginu og auka kynni milli foreldra.
+7.2. FulltrÃºar Ã­ foreldrarÃ¡Ã°i eru valdir Ã¡ foreldrafundi Ã­ september Ã¡r hvert.
 
-### 8. Annağ
-8.1. Reikningsár félagsins miğast viğ almannaksáriğ.
-8.2. Skoğunarmenn reikninga eru tveir, annar kosinn á ağalfundi, en hinn skipağur af stjórn SSR.
-8.3. Hætti félagiğ störfum skal SSR, í samráği viğ BÍS, varğveita eignir şess şar til skátastarf kemst aftur á í Skóga- og Seljahverfi.
-8.4. Lögum şessum verğur ağeins breytt á ağalfundi félagsins og şarf til şess 2/3 hluta greiddra atkvæğa.
-8.5. Lagbreytingatillögur skulu hafa borist stjórn félagsins minnst 7 sólarhringum fyrir ağalfund og skulu vera ağgengilegar í skátaheimili félagsins minnst 5 sólarhringum fyrir ağalfund.
-8.6. Lagabreytingar öğlast şegar gildi.
-8.7. Foringjaráğ skal setja vinnureglur fyrir sveitaforingja.
-8.8. Einfaldur meirihluti nægir viğ atkvæğagreiğslur nema şegar lögum er breytt, félagiğ lagt niğur eğa húsnæği félagsins selt, şá şarf 2/3 hluta atkvæğa
-8.9. Lög og reglur félagsins skulu vera ağgengilegar í skátaheimilinu og æskilegt er ağ şær séu ağgengilegar á vef félagsins.
-8.10. Lög şessi er sett á ağalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á ağalfundi 18. febrúar 2016 og öğlast şegar gildi.
+### 8. AnnaÃ°
+8.1. ReikningsÃ¡r fÃ©lagsins miÃ°ast viÃ° almannaksÃ¡riÃ°.
+8.2. SkoÃ°unarmenn reikninga eru tveir, annar kosinn Ã¡ aÃ°alfundi, en hinn skipaÃ°ur af stjÃ³rn SSR.
+8.3. HÃ¦tti fÃ©lagiÃ° stÃ¶rfum skal SSR, Ã­ samrÃ¡Ã°i viÃ° BÃS, varÃ°veita eignir Ã¾ess Ã¾ar til skÃ¡tastarf kemst aftur Ã¡ Ã­ SkÃ³ga- og Seljahverfi.
+8.4. LÃ¶gum Ã¾essum verÃ°ur aÃ°eins breytt Ã¡ aÃ°alfundi fÃ©lagsins og Ã¾arf til Ã¾ess 2/3 hluta greiddra atkvÃ¦Ã°a.
+8.5. LagbreytingatillÃ¶gur skulu hafa borist stjÃ³rn fÃ©lagsins minnst 7 sÃ³larhringum fyrir aÃ°alfund og skulu vera aÃ°gengilegar Ã­ skÃ¡taheimili fÃ©lagsins minnst 5 sÃ³larhringum fyrir aÃ°alfund.
+8.6. Lagabreytingar Ã¶Ã°last Ã¾egar gildi.
+8.7. ForingjarÃ¡Ã° skal setja vinnureglur fyrir sveitaforingja.
+8.8. Einfaldur meirihluti nÃ¦gir viÃ° atkvÃ¦Ã°agreiÃ°slur nema Ã¾egar lÃ¶gum er breytt, fÃ©lagiÃ° lagt niÃ°ur eÃ°a hÃºsnÃ¦Ã°i fÃ©lagsins selt, Ã¾Ã¡ Ã¾arf 2/3 hluta atkvÃ¦Ã°a
+8.9. LÃ¶g og reglur fÃ©lagsins skulu vera aÃ°gengilegar Ã­ skÃ¡taheimilinu og Ã¦skilegt er aÃ° Ã¾Ã¦r sÃ©u aÃ°gengilegar Ã¡ vef fÃ©lagsins.
+8.10. LÃ¶g Ã¾essi er sett Ã¡ aÃ°alfundi SkÃ¡tafÃ©lagsins Seguls 26. nÃ³vember 2006 og breytt Ã¡ aÃ°alfundi 18. febrÃºar 2016 og Ã¶Ã°last Ã¾egar gildi.
