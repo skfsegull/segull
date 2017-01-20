@@ -1,9 +1,9 @@
 ﻿# Lög Skátafélagsins Seguls
 
 ### 1. Félagið
-1.1. Félagið heitir Skátafélagið Segull og merki þess er segull með skátaliljunni og smáranum í forgrunni. Sjá í viðauka 1.
-1.2 Heimili þess og starfssvæði er Skóga- og Seljahverfi í Reykjavík. Varnarþing er í Reykjavík
-1.3. Félagið er aðili að Bandalagi íslenskra skáta (BÍS) og Skátasambandi Reykjavíkur (SSR) og starfar eftir lögum þeirra.
+  1.1. Félagið heitir Skátafélagið Segull og merki þess er segull með skátaliljunni og smáranum í forgrunni. Sjá í viðauka 1.
+  1.2. Heimili þess og starfssvæði er Skóga- og Seljahverfi í Reykjavík. Varnarþing er í Reykjavík
+  1.3. Félagið er aðili að Bandalagi íslenskra skáta (BÍS) og Skátasambandi Reykjavíkur (SSR) og starfar eftir lögum þeirra.
 
 ### 2. Markmið
 2.1. Markmið félagsins er að þroska börn og ungt fólk til að verða sjálfstæðir, virkir og ábyrgir einstaklingar í samfélaginu.
