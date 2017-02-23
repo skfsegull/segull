@@ -107,4 +107,4 @@
 
   8.9. Lög og reglur félagsins skulu vera aðgengilegar í skátaheimilinu og æskilegt er að þær séu aðgengilegar á vef félagsins.
 
-  8.10. Lög þessi er sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 18. febrúar 2016 og öðlast þegar gildi.
+  8.10. Lög þessi eru sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 18. febrúar 2016 og öðlast þegar gildi.
