@@ -38,7 +38,7 @@
             3. Kosning þriggja manna í uppstillingrnefnd til eins árs.
         8. Önnur mál
 5. **Stjórn félagsins**  
-    1. Stjórn félagsins skal skipuð sjö einstaklingum. Félagsforingja og 6 meðstjórnendum.
+    1. Stjórn félagsins skal skipuð fimm einstaklingum. Félagsforingja og 4 meðstjórnendum.
     2. Stjórnarmenn skulu kosnir til tveggja ára í senn.
     3. Stjórnin kýs úr hópi meðstjórnanda aðstoðarfélagsforingja og gjaldkera.
     4. Láti stjórnarmaður af störfum á tímabilinu skal foringjaráð kjósa nýjan í hans stað fram að næsta aðalfundi.
@@ -70,4 +70,4 @@
     7. Foringjaráð skal setja vinnureglur fyrir sveitaforingja.
     8. Einfaldur meirihluti nægir við atkvæðagreiðslur nema þegar lögum er breytt, félagið lagt niður eða húsnæði félagsins selt, þá þarf 2/3 hluta atkvæða
     9. Lög og reglur félagsins skulu vera aðgengilegar í skátaheimilinu og æskilegt er að þær séu aðgengilegar á vef félagsins.
-    10. Lög þessi eru sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 18. febrúar 2016 og öðlast þegar gildi.
+    10. Lög þessi eru sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 21. febrúar 2018 og öðlast þegar gildi.
