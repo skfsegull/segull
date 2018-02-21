@@ -35,7 +35,7 @@
         7. Kosningar skv. lögum félagsins:
             1. Kosning stjórnar
             2. Kosning eins skoðunarmanns reikninga til eins árs
-            3. Kosning þriggja manna í uppstillingrnefnd til eins árs.
+            3. Kosning þriggja manna í uppstillingarnefnd til eins árs.
         8. Önnur mál
 5. **Stjórn félagsins**  
     1. Stjórn félagsins skal skipuð fimm einstaklingum. Félagsforingja og 4 meðstjórnendum.
@@ -61,7 +61,7 @@
     1. Í félaginu starfar foreldraráð sem í eiga sæti fulltrúar foreldra skátanna í félaginu. Verkefni foreldraráðsins er að styðja við bakið á skátastarfinu í félaginu og auka kynni milli foreldra.
     2. Fulltrúar í foreldraráði eru valdir á foreldrafundi í september ár hvert.
 8. **Annað**  
-    1. Reikningsár félagsins miðast við almannaksárið.
+    1. Reikningsár félagsins miðast við almanaksárið.
     2. Skoðunarmenn reikninga eru tveir, annar kosinn á aðalfundi, en hinn skipaður af stjórn SSR.
     3. Hætti félagið störfum skal SSR, í samráði við BÍS, varðveita eignir þess þar til skátastarf kemst aftur á í Skóga- og Seljahverfi.
     4. Lögum þessum verður aðeins breytt á aðalfundi félagsins og þarf til þess 2/3 hluta greiddra atkvæða.
