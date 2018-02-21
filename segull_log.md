@@ -46,7 +46,7 @@
     6. Stjórn félagsins skipar sveitaforingja og aðstoðarsveitaforingja félagsins
     7. Afl atkvæða ræður úrslitum á stjórnarfundum. Séu atkvæði jöfn ræður atkvæði félagsforingja.
     8. Störf og skyldur einstakra stjórnarmanna eru sem hér segir:
-        * Félagsforingi er formaður stjórnar félagsins og fulltrúi félagsins út á við. Hann boðar og stjórnar fundum félagsstjónar og foringjaráðs.
+        * Félagsforingi er formaður stjórnar félagsins og fulltrúi félagsins út á við. Hann boðar og stjórnar fundum félagsstjórnar og foringjaráðs.
         * Aðstoðarfélagsforingi er staðgengill félagsforingja og annast rekstur og skipulagningu félagsstarfsins og hefur eftirlit með skátastarfinu í félaginu.
         * Gjaldkeri félagsins skal vera fjárráða. Hann varðveitir félagssjóð, sér um öll fjármál félagsins og hefur eftirlit með sjóðum félagsins.
         * Að lágmarki einn stjórnarmanna skal vera á aldrinum 18-25 ára.
