@@ -1,7 +1,7 @@
 # ﻿Lög Skátafélagsins Seguls
 
 1. **Félagið**  
-    1. Félagið heitir Skátafélagið Segull og merki þess er segull með skátaliljunni og smáranum í forgrunni. Sjá í viðauka 1.
+    1. Félagið heitir Skátafélagið Segull og merki þess er áttarós með skátaliljunni og smáranum í forgrunni. Sjá í viðauka 1.
     2. Heimili þess og starfssvæði er Skóga- og Seljahverfi í Reykjavík. Varnarþing er í Reykjavík
     3. Félagið er aðili að Bandalagi íslenskra skáta (BÍS) og Skátasambandi Reykjavíkur (SSR) og starfar eftir lögum þeirra.
 2. **Markmið**  
@@ -70,4 +70,4 @@
     7. Foringjaráð skal setja vinnureglur fyrir sveitaforingja.
     8. Einfaldur meirihluti nægir við atkvæðagreiðslur nema þegar lögum er breytt, félagið lagt niður eða húsnæði félagsins selt, þá þarf 2/3 hluta atkvæða
     9. Lög og reglur félagsins skulu vera aðgengilegar í skátaheimilinu og æskilegt er að þær séu aðgengilegar á vef félagsins.
-    10. Lög þessi eru sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 21. febrúar 2018 og öðlast þegar gildi.
+    10. Lög þessi eru sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 23. febrúar 2021.
