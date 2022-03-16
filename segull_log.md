@@ -41,21 +41,6 @@
     1. Stjórn félagsins skal skipuð fimm einstaklingum. Félagsforingja og 4 meðstjórnendum.
     2. Stjórnarmenn skulu kosnir til tveggja ára í senn.
     3. Stjórnin kýs úr hópi meðstjórnanda aðstoðarfélagsforingja og gjaldkera.
-    4. Láti stjórnarmaður af störfum á tímabilinu skal foringjaráð kjósa nýjan í hans stað fram að næsta aðalfundi.
-    5. Stjórn skal funda reglulega, að jafnaði mánaðarlega. Stjórnarfundur er löglegur ef meirihluti stjórnarmanna sækir fund.
-    6. Stjórn félagsins skipar sveitaforingja og aðstoðarsveitaforingja félagsins
-    7. Afl atkvæða ræður úrslitum á stjórnarfundum. Séu atkvæði jöfn ræður atkvæði félagsforingja.
-    8. Störf og skyldur einstakra stjórnarmanna eru sem hér segir:
-        * Félagsforingi er formaður stjórnar félagsins og fulltrúi félagsins út á við. Hann boðar og stjórnar fundum félagsstjórnar og foringjaráðs.
-        * Aðstoðarfélagsforingi er staðgengill félagsforingja og annast rekstur og skipulagningu félagsstarfsins og hefur eftirlit með skátastarfinu í félaginu.
-        * Gjaldkeri félagsins skal vera fjárráða. Hann varðveitir félagssjóð, sér um öll fjármál félagsins og hefur eftirlit með sjóðum félagsins.
-        * Að lágmarki einn stjórnarmanna skal vera á aldrinum 18-25 ára.
-        * Leitast skal við að kynjahlutföll séu sem jöfnust, að lágmarki tveir af hvoru kyni.
-        * Stjórn skal svo skipta með sér skyldum eftir því sem best verður komist hverju sinni og skal verkskipting stjórnar vera aðgengileg skátum í félaginu hverju sinni.
-5. **Stjórn félagsins**  
-    1. Stjórn félagsins skal skipuð fimm einstaklingum. Félagsforingja og 4 meðstjórnendum.
-    2. Stjórnarmenn skulu kosnir til tveggja ára í senn.
-    3. Stjórnin kýs úr hópi meðstjórnanda aðstoðarfélagsforingja og gjaldkera.
     4. Láti stjórnarmaður af störfum á tímabilinu skal félagsráð kjósa nýjan í hans stað fram að næsta aðalfundi.
     5. Stjórn skal funda reglulega, að jafnaði mánaðarlega. Stjórnarfundur er löglegur ef meirihluti stjórnarmanna sækir fund.
     6. Stjórn félagsins skipar sveitaforingja og aðstoðarsveitaforingja félagsins
