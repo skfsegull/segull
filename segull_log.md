@@ -52,22 +52,42 @@
         * Að lágmarki einn stjórnarmanna skal vera á aldrinum 18-25 ára.
         * Leitast skal við að kynjahlutföll séu sem jöfnust, að lágmarki tveir af hvoru kyni.
         * Stjórn skal svo skipta með sér skyldum eftir því sem best verður komist hverju sinni og skal verkskipting stjórnar vera aðgengileg skátum í félaginu hverju sinni.
-6. **Foringjaráð**  
-    1. Í félaginu starfar foringjaráð sem í eiga sæti félagsstjórn, sveitaforingjar, aðstoðarsveitaforingjar og fulltrúi foreldraráðs. Foringjaráð er stjórn félagsins til ráðgjafar um framvindu skátastarfsins í félaginu.
-    2. Stjórn félagsins getur veitt öðrum aðilum en getið er í 6.1 sæti í foringjaráði.
-    3. Félagsforingi stjórnar fundum foringjaráðs en aðstoðarfélagsforingi í forföllum hans.
-    4. Foringjaráð skal funda reglulega, að jafnaði einu sinni í mánuði nema sumarmánuðina.
-7. **Foreldraráð**  
+5. **Stjórn félagsins**  
+    1. Stjórn félagsins skal skipuð fimm einstaklingum. Félagsforingja og 4 meðstjórnendum.
+    2. Stjórnarmenn skulu kosnir til tveggja ára í senn.
+    3. Stjórnin kýs úr hópi meðstjórnanda aðstoðarfélagsforingja og gjaldkera.
+    4. Láti stjórnarmaður af störfum á tímabilinu skal félagsráð kjósa nýjan í hans stað fram að næsta aðalfundi.
+    5. Stjórn skal funda reglulega, að jafnaði mánaðarlega. Stjórnarfundur er löglegur ef meirihluti stjórnarmanna sækir fund.
+    6. Stjórn félagsins skipar sveitaforingja og aðstoðarsveitaforingja félagsins
+    7. Afl atkvæða ræður úrslitum á stjórnarfundum. Séu atkvæði jöfn ræður atkvæði félagsforingja.
+    8. Störf og skyldur einstakra stjórnarmanna eru sem hér segir:
+        * Félagsforingi er formaður stjórnar félagsins og fulltrúi félagsins út á við. Hann boðar og stjórnar fundum félagsstjórnar og félagsráðs.
+        * Aðstoðarfélagsforingi er staðgengill félagsforingja og annast rekstur og skipulagningu félagsstarfsins og hefur eftirlit með skátastarfinu í félaginu.
+        * Gjaldkeri félagsins skal vera fjárráða. Hann varðveitir félagssjóð, sér um öll fjármál félagsins og hefur eftirlit með sjóðum félagsins.
+        * Að lágmarki einn stjórnarmanna skal vera á aldrinum 18-25 ára.
+        * Leitast skal við að kynjahlutföll séu sem jöfnust, að lágmarki tveir af hvoru kyni.
+        * Stjórn skal svo skipta með sér skyldum eftir því sem best verður komist hverju sinni og skal verkskipting stjórnar vera aðgengileg skátum í félaginu hverju sinni.
+6. **Félagsráð**  
+    1. Í félaginu starfar félagsráð sem í eiga sæti félagsstjórn, sveitaforingjar, aðstoðarsveitaforingjar, starfsmaður Seguls og fulltrúi foreldraráðs. Félagsráð er stjórn félagsins til ráðgjafar um framvindu skátastarfsins í félaginu.
+    2. Stjórn félagsins getur veitt öðrum aðilum en getið er í 6.1 sæti í félagsráði.
+    3. Félagsforingi stjórnar fundum félagsráðs en aðstoðarfélagsforingi í forföllum hans.
+    4. Félagsráð skal funda reglulega, að jafnaði einu sinni í mánuði nema sumarmánuðina.
+7. **Foringjaráð**  
+    1. Í félaginu starfar foringjaráð sem í eiga sæti sveitaforingjar, aðstoðarsveitaforingjar og starfsmaður Seguls.
+    2. Foringjaráð kýs fundarstjóra til að stjórna fundum foringjaráðs.
+    3. Foringjaráð skal funda reglulega, minnst tvisvar á haustönn og tvisvar á vorönn. 
+8. **Foreldraráð**  
     1. Í félaginu starfar foreldraráð sem í eiga sæti fulltrúar foreldra skátanna í félaginu. Verkefni foreldraráðsins er að styðja við bakið á skátastarfinu í félaginu og auka kynni milli foreldra.
     2. Fulltrúar í foreldraráði eru valdir á foreldrafundi í september ár hvert.
-8. **Annað**  
+9. **Annað**  
     1. Reikningsár félagsins miðast við almanaksárið.
     2. Skoðunarmenn reikninga eru tveir, annar kosinn á aðalfundi, en hinn skipaður af stjórn SSR.
     3. Hætti félagið störfum skal SSR, í samráði við BÍS, varðveita eignir þess þar til skátastarf kemst aftur á í Skóga- og Seljahverfi.
     4. Lögum þessum verður aðeins breytt á aðalfundi félagsins og þarf til þess 2/3 hluta greiddra atkvæða.
     5. Lagbreytingatillögur skulu hafa borist stjórn félagsins minnst 7 sólarhringum fyrir aðalfund og skulu vera aðgengilegar í skátaheimili félagsins minnst 5 sólarhringum fyrir aðalfund.
     6. Lagabreytingar öðlast þegar gildi.
-    7. Foringjaráð skal setja vinnureglur fyrir sveitaforingja.
+    7. Félagsráð skal setja vinnureglur fyrir sveitaforingja.
     8. Einfaldur meirihluti nægir við atkvæðagreiðslur nema þegar lögum er breytt, félagið lagt niður eða húsnæði félagsins selt, þá þarf 2/3 hluta atkvæða
     9. Lög og reglur félagsins skulu vera aðgengilegar í skátaheimilinu og æskilegt er að þær séu aðgengilegar á vef félagsins.
-    10. Lög þessi eru sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 21. febrúar 2018 og öðlast þegar gildi.
+    10. Lög þessi eru sett á aðalfundi Skátafélagsins Seguls 26. nóvember 2006 og breytt á aðalfundi 16. mars 2022.
+
